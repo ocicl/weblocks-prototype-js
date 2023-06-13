@@ -1,0 +1,10 @@
+* weblocks-prototype-js
+
+Weblocks JavaScript-backend, connecting it to PrototypeJs library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/weblocks-framework/weblocks-prototype-js.git   |
+| commit  | 6d39ff1  |
+| systems | weblocks-prototype-js |
+|---------+-------------------------------------------|
+
